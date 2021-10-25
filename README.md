@@ -1,6 +1,6 @@
 # Education Zone
 
-[Click here to visit the site]()
+[Click here to visit the site](https://edu-zone-obaidurx.netlify.app/)
 
 # EDUZone
 
